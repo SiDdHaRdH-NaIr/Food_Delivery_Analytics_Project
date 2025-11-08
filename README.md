@@ -31,8 +31,8 @@ The analysis was done in **Jupyter Notebook** using:
 | Highest order volume | Bengaluru & Hyderabad |
 | Top revenue cuisines | Biryani and North Indian food |
 | Busy periods | Lunch (12–2 PM) & Dinner (7–10 PM) |
-| Avg delivery time | ~35 minutes |
-| Cancellation rate | ~4% |
+| Avg delivery time | 35 minutes |
+| Cancellation rate | 4% |
 | Delivery time vs rating | Longer delivery time → ratings tend to drop |
 
 ## Repository Contents
